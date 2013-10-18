@@ -1,7 +1,7 @@
 iSEDfit
 =======
 
-iSEDfit is a Bayesian spectral energy distribution fitting code designed to extract the physical properties of galaxies from broadband photometry.  The public release of iSEDfit is slated for Summer 2013.  If you are interested in being informed when iSEDfit is publicly released, or in helping with its development, please send me a note!
+iSEDfit is a Bayesian spectral energy distribution fitting code designed to extract the physical properties of galaxies from broadband photometry.  The full suite of routines are publicly distributed as part of my  [impro](https://github.com/moustakas/impro) IDL library.
 
 John Moustakas
 Siena College
